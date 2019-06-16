@@ -1,0 +1,21 @@
+{
+    "java.codeGeneration.generateComments": true,
+    "java.codeGeneration.hashCodeEquals.useInstanceof": true,
+    "java.codeGeneration.hashCodeEquals.useJava7Objects": true,
+    "java.completion.guessMethodArguments": true,
+    "java.format.enabled": true,
+    "java.completion.enabled": true,
+    "java.completion.importOrder": [
+        "java",
+        "javax",
+        "com",
+        "org"
+    ],
+    "java.completion.overwrite": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_25",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.formatOnSave": true,
+    "java.format.comments.enabled": true,
+    "comments.openPanel": "openOnSessionStart",
+}

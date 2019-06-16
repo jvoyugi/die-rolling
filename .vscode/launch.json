@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DieRollingSimulation",
+            "request": "launch",
+            "mainClass": "DieRollingSimulation",
+            "projectName": "assignment1_aadfcd9a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiceRollingSimulation",
+            "request": "launch",
+            "mainClass": "DiceRollingSimulation"
+        }
+    ]
+}
